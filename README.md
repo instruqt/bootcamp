@@ -1,2 +1,2 @@
-# bootcamp
-Source code for Instruqt Bootcamp Github pages site
+# Instruqt Bootcamp
+Slides for Instruqt Bootcamp Training
